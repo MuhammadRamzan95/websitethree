@@ -1,0 +1,219 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.first  {
+    
+    background-color: skyblue;
+    height: 100px;
+}
+.first li {
+    height: 20px;
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+}
+.first p {
+
+    text-align: center;
+    position: relative;
+    top: 0px;
+    right: 20px;
+    bottom: 100px;
+    left: 20px;
+}
+.two {
+    margin: 15px 0px 10px 0px;
+    padding: 10px;
+}
+.three  {
+    color: green;
+    text-align: center;
+
+}
+.three p {
+    color: black;
+    text-align: justify;
+}
+.four {
+    background-color: blue;
+    height: 300px;
+    margin: 20px auto;
+float: left;
+    width: 100%;
+    
+}
+.four h1 {
+    background-color: black;
+    color: white;
+    width: 170px;
+    height: 170px;
+    margin: 20px 40px 20px 20px;
+    border: 1px slid black;
+    float: left;
+    display: inline-block;
+}
+.fourone{
+    background-color: black;
+    color: white;
+    width: 170px;
+    height: 170px;
+    margin: 20px 50px;
+    border: 1px slid black;
+    float: left;
+    display: inline-block;
+}
+.fourtwo {
+    background-color: black;
+    color: white;
+    width: 170px;
+    height: 170px;
+    margin: 20px 50px ;
+    border: 1px slid black;
+    float: left;
+    display: inline-block;
+}
+.six h1 {
+text-align: center; 
+color: green;  
+}
+.six img {
+    text-align: center;
+}
+.seven {
+    display: inline-block;
+    background-color:yellow;
+    height: 300px;
+    width: 300px;
+    margin: 10px 20px 10px 20px;
+    
+    float: left;
+    
+}
+.seven img {
+    position: relative;
+    top: 80px;
+    bottom: 20px;
+    left:100px;
+    right: 0px;
+}
+.seven h1 {
+    position: relative;
+    top: 110px;
+    bottom: 40px;
+    left: 40px; 
+}
+.eight {
+    
+    display: inline-block;
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+    
+    margin: 10px 20px 10px 20px;
+    float: left;
+    
+}
+ .eight img {
+    position: relative;
+    top: 80px;
+    bottom: 20px;
+    left:100px;
+    right: 0px;
+}
+.eight h1 {
+    position: relative;
+    top: 110px;
+    bottom: 20px;
+    left: 70px;
+}
+.nine {
+    display: inline-block;
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+    
+    margin: 10px 20px 10px 20px;
+    float: left;
+    
+}
+.nine img {
+    position: relative;
+    top: 80px;
+    bottom: 20px;
+    left:100px;
+    right: 0px;
+}
+.nine h1 {
+    position: relative;
+    top: 110px;
+    bottom: 40px;
+    left: 70px;
+
+}
+.ten {
+    display: inline-block;
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+    
+    margin: 10px 20px 10px 20px;
+    float: left;
+}
+.ten img {
+    position: relative;
+    top: 110px;
+    bottom: 60px;
+    left: 60px;
+}
+.ten h1 {
+     position: relative;
+    top: 120px;
+    bottom: 40px;
+    left: 30px;
+
+}
+.eleven {
+    display: inline-block;
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+    
+    margin: 10px 20px 10px 20px;
+    float: left;
+}
+.eleven img {
+    position: relative;
+    top: 110px;
+    bottom: 60px;
+    left: 60px;
+}
+.eleven h1 {
+    position: relative;
+    top: 120px;
+    bottom: 40px;
+    left: 30px;
+}
+.twelve {
+    display: inline-block;
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+    
+    margin: 10px 20px 10px 20px;
+    float: left;
+}
+.twelve img {
+    position: relative;
+    top: 110px;
+    bottom: 60px;
+    left: 60px;
+}
+.twelve h1 {
+    position: relative;
+    top: 120px;
+    bottom: 40px;
+    left: 30px;
+
+}
+
