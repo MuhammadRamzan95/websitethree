@@ -1,11 +1,12 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 .first  {
     
     background-color: skyblue;
-    height: 100px;
+    height: 120px;
 }
 .first li {
     height: 20px;
@@ -13,23 +14,34 @@
     margin: 5px;
     display: inline-block;
 }
-.first p {
 
-    text-align: center;
-    position: relative;
-    top: 0px;
-    right: 20px;
-    bottom: 100px;
-    left: 20px;
+
 }
 .two {
-    margin: 15px 0px 10px 0px;
+    margin: 30px 0px 10px 0px;
     padding: 10px;
+}
+.two h5 {
+    background-color: blue;
+    height: 40px;
+    text-align: center;
+    margin: 5px;
+    color: white;
+}
+.wtwo {
+   
+    
+}
+
 }
 .three  {
     color: green;
     text-align: center;
 
+}
+.three h1 {
+    text-align: center;
+    color: green;
 }
 .three p {
     color: black;
@@ -37,7 +49,7 @@
 }
 .four {
     background-color: blue;
-    height: 300px;
+    height: 250px;
     margin: 20px auto;
 float: left;
     width: 100%;
@@ -96,6 +108,7 @@ color: green;
     bottom: 20px;
     left:100px;
     right: 0px;
+    
 }
 .seven h1 {
     position: relative;
@@ -215,5 +228,79 @@ color: green;
     bottom: 40px;
     left: 30px;
 
+}
+.negative {
+    display: inline-block;
+    height: 250px;
+    width: 500px;
+    background-color: wheat;
+    margin: 20px 20px;
+    float: left;
+}
+ .previos {
+     position: relative;
+     top: 30px;
+     left: 10px;
+    color: green;
+}
+.zero {
+    margin:20px 20px ;
+    height: 70px;
+    width: 200px;
+    background-color: white;
+    float: left;
+}
+.zero li  {
+    display: inline-block;
+    
+}
+.thirteen {
+    margin:20px 20px ;
+    height: 70px;
+    width: 200px;
+    background-color: white;
+    float: left;
+}
+.thirteen li {
+    display: inline-block;
+}
+.fourteen {
+    margin:20px 20px ;
+    height: 70px;
+    width: 200px;
+    background-color: white;
+    float: left;
+}
+.fourteen li {
+    display: inline-block;
+}
+.fif {
+    margin:20px 20px ;
+    height: 70px;
+    width: 200px;
+    background-color: white;
+    float: left;
+}
+.fif li {
+    display: inline-block;
+}
+.sixt {
+    background-color: wheat;
+    color: green;
+    float: left;
+    border: 1px solid white;
+    position: relative;
+    bottom: 70px;
+    left: 50px;
+    top: 30px;
+}
+.row {
+    
+    text-align: center;
+    width: 500px;
+    color: rgb(91, 139, 91);
+    
+
+    
 }
 
